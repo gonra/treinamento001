@@ -1,0 +1,6 @@
+% Tarefas
+
+%% Adicionar seguintes alteracoes no documento01.txt
+%% Lista de CN por Estado: Sigla Estado : CN1,CN2,CN3... 
+
+%% Gerar documento02.txt com Lista reversa do par CN:Sigla Estado
