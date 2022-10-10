@@ -1,6 +1,9 @@
 % Tarefas
 
 %% Adicionar seguintes alteracoes no documento01.txt
-%% Lista de CN por Estado: Sigla Estado : CN1,CN2,CN3... 
+%% Lista de DDD por Estado: Sigla Estado : CN1,CN2,CN3... 
+%% Exemplo: SP:11,12,14,15,17,18
 
-%% Gerar documento02.txt com Lista reversa do par CN:Sigla Estado
+%% Gerar documento02.txt com Lista reversa do par DDD:Sigla Estado
+%% Exemplo: 11:SP
+%%          12:SP
