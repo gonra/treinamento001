@@ -1,0 +1,12 @@
+%%
+%% Gerar nova branch : features/arquivo_regioes
+%% Mudar para nova branch 
+%% Gerar arquivo REGIAO_ESTADOS com a informacao de REGIAO:SIGLAS ESTADOS
+%% Exemplo : SUDESTE:SP,RJ,MG,ES
+%% 
+%% Gerar arquivo ESTADO_REGIAO con informacao reversa
+%% Exemplo : SP:SUDESTE
+%%           RJ:SUDESTE
+%% Salvar modificacoes na nova branch
+%% Mudar para branch develop
+%% Fazer merge da branch features/arquivo_regioes
